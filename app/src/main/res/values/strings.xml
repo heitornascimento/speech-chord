@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SpeechChordActivity!</string>
+    <string name="app_name">SpeechChord</string>
+    <string name="chordNotFound">Acorde Não Encontrado!</string>
+    <string name="notSupported">Aparelho não suporta reconhecimento de voz</string>
+    <string name="speak">Fale o acorde...</string>
+    <string name="note">Nota</string>
+    <string name="quality">Modo</string>
+
+</resources>
